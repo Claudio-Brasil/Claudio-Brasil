@@ -2,9 +2,9 @@
 <h2>My name is Claudio Fischer</h2>
 
 <div align="center">
-  <a href="https://github.com/ClaudioLuizFischer">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ClaudioLuizFischer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioLuizFischer&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/claudioluizfischer">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=claudioluizfischer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioluizfischer&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <h2>Skills</h2>
