@@ -26,7 +26,6 @@
   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
   
-  ##
   <h2>Connect with me</h2>
 <div>
    <a href = "mailto:claudio.fischer.jr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
